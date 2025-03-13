@@ -1,0 +1,8 @@
+node_modules
+dist
+build
+frontend/build
+frontend/src1
+frontend/.svelte-kit
+frontend/.vscode
+frontend/wailsjs
